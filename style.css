@@ -1,0 +1,22 @@
+.clock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #DDE5B6;
+    color:#3A5A40;
+    font-family: 'Courier New', monospace;
+}
+
+#time{
+    font-size: 60px;
+    font-weight: bold;
+    margin: 10px 0;
+    color: #1B263B;
+}
+
+#date{
+    font-size: 22px;
+    opacity: 0.9;
+}
